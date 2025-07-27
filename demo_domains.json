@@ -1,0 +1,12 @@
+{
+  "Signal_peptide": {
+    "start": 1,
+    "end": 25,
+    "color": "#FF6B6B"
+  },
+  "Functional_domain": {
+    "start": 26,
+    "end": 120,
+    "color": "#4ECDC4"
+  }
+}

@@ -1,0 +1,8 @@
+# Demo domain file for protein haplotype analysis
+# Format: domain_name	start	end	[color]
+# Lines starting with # are comments
+# Positions are 1-based amino acid coordinates
+# Color is optional (hex format like #FF0000 or color names)
+
+Signal_peptide	1	25	#FF6B6B
+Functional_domain	26	120	#4ECDC4
